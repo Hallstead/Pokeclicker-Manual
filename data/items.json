@@ -1,0 +1,337 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "count": "1",
+            "name": "Dungeon Ticket",
+            "category": [
+                "Key Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Holo Caster",
+            "category": [
+                "Key Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Hatchery",
+            "category": [
+                "Key Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Safari Zone",
+            "category": [
+                "Key Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Farm",
+            "category": [
+                "Key Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Underground",
+            "category": [
+                "Key Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+	    "name": "Gem Case",
+            "category": [
+                "Key Items"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Magic Ball",
+            "category": [
+                "Oak Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Amulet Coin",
+            "category": [
+                "Oak Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rocky Helmet",
+            "category": [
+                "Oak Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "EXP Share",
+            "category": [
+                "Oak Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Sprayduck",
+            "category": [
+                "Oak Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Shiny Charm",
+            "category": [
+                "Oak Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Magma Stone",
+            "category": [
+                "Oak Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cell Battery",
+            "category": [
+                "Oak Items"
+            ],
+            "progression": true
+        },
+	{
+            "count":1,
+            "name": "Explosive Charge",
+            "category": ["Oak Items"],
+            "progression": true
+        },
+	{
+	    "count":1,
+	    "name": "Treasure Scanner",
+	    "category": ["Oak Items"],
+	    "progression": true
+	},
+        {
+            "count": 1,
+            "name": "Auto Battle Items",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Catch Filter Fantasia",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Enhanced Auto Clicker",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Enhanced Auto Hatchery",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Enhanced Auto Mine",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Simple Auto Farmer",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Auto Quest Completer",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Auto Safari Zone",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Catch Speed Adjuster",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Discord Code Generator",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Infinite Seasonal Events",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Oak Items Unlimited",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Omega Protein Gains",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Overnight Berry Growth",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Simple Weather Changer",
+            "category": [
+                "Scripts"
+            ],
+            "useful": true
+        },
+        {
+            "count": "3",
+            "name": "Progressive Pokeball",
+            "category": [
+                "Shop"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Boulder Badge",
+            "category": [
+                "Badges"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cascade Badge",
+            "category": [
+                "Badges"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Thunder Badge",
+            "category": [
+                "Badges"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rainbow Badge",
+            "category": [
+                "Badges"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Marsh Badge",
+            "category": [
+                "Badges"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Soul Badge",
+            "category": [
+                "Badges"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Volcano Badge",
+            "category": [
+                "Badges"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Earth Badge",
+            "category": [
+                "Badges"
+            ],
+            "progression": true
+        },
+        {
+            "count": "5",
+            "name": "Progressive Elite Badge",
+            "category": [
+                "Badges"
+            ],
+            "progression": true
+        }
+    ]
+}

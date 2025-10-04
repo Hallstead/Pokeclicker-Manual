@@ -1,0 +1,17 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Example Logic only category": {
+        "hidden": true
+    },
+    "Example Yaml-option category": {
+        "yaml_option": ["DLC_enabled"],
+        "hidden": true
+    },
+    "Pokemon": {
+        "hidden": true,
+        "yaml_option": ["dexsanity"]
+    },
+    "Scripts": {
+        "yaml_option": ["include_scripts_as_items"]
+    }
+}
